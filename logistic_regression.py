@@ -128,5 +128,5 @@ plt.xlabel("z")
 plt.ylabel("Sigmoid(z)")
 plt.show()
 
-print("\nTask Completed Successfully 🚀")
+print("\nTask Completed Successfully ")
 
